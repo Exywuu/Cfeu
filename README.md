@@ -67,7 +67,7 @@ même invariant**, et il faut les traverser toutes pour atteindre la dernière p
 | Réseau à l'exécution | **Zéro requête** — polices embarquées, aucune ressource distante |
 | Données | Uniquement `localStorage` (programme personnel, fragments, préférences) |
 | Compte / paiement | Aucun. Le panier est une simulation explicitement étiquetée |
-| Publication | **Aucune.** Rien n'a été mis en ligne ; le dossier n'est pas encore un dépôt Git |
+| Publication | Code publié sur GitHub ; démonstration publique non disponible lors de la dernière vérification |
 | Réutilisation | Les polices sont redistribuables (SIL OFL 1.1) ; le reste est du code original |
 
 Le prototype est **fictif, indépendant et non officiel**. L'organisation choisie n'a ni
@@ -691,7 +691,7 @@ La colonne « méthode » indique comment. Ce qui n'a **pas** été testé est l
 - **Comparaison visuelle du rendu officiel** de Hellfest sur mobile et desktop : la comparaison
   reste structurelle.
 - **Audit de sécurité**, **tests de charge**, **tests de compatibilité** d'anciens navigateurs.
-- Le **prototype n'a pas été publié** et n'a donc jamais été servi hors de la machine locale.
+- Lors de la réalisation initiale, le **prototype n'avait pas encore été publié**. Son code est désormais disponible sur GitHub ; la démonstration publique n'était pas disponible lors de la dernière vérification.
 
 ## 14. Contexte de réalisation
 
